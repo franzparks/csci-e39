@@ -124,9 +124,9 @@ class Chat extends React.Component {
 			
 			</Layout.Content>
 			
-			<Layout.Sidebar title="I am a profile">
+			<Layout.Sidebar title="I am a Sidebar">
 				<ul className="item-list">
-					<li>I am prifle stuff </li>
+					<li>I am in the sidebar  </li>
 				</ul>
 			</Layout.Sidebar>
 			<Layout.Footer>
